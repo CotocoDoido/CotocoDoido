@@ -1,4 +1,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CotocoDoido&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou estudante para
+Ola sou estudante de JavaScrpit
